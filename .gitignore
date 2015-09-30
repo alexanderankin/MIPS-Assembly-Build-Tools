@@ -1,0 +1,7 @@
+# ignore duplicate code and downloaded libraries
+node_modules/
+build/
+dist/
+
+# ignore your own code (inlude only the build tools)
+src/
